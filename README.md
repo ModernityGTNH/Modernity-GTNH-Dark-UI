@@ -32,7 +32,7 @@ You will have a new style of better questing book! Enjoy it XD!
 
 ## Related resourcepacks
 Modernity-GTNH [Modernity-GTNH](https://github.com/ModernityGTNH/Modernity-GTNH) \
-Modernity-GTNH-UI [Modernity-GTNH-Dark-UI](https://github.com/ModernityGTNH/Modernity-GTNH-UI)
+Modernity-GTNH-UI [Modernity-GTNH-UI](https://github.com/ModernityGTNH/Modernity-GTNH-UI)
 
 ### Licensing
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
