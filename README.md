@@ -40,7 +40,8 @@ Modernity-GTNH-UI [Modernity-GTNH-UI](https://github.com/ModernityGTNH/Modernity
 ## About Text Readability Issue
 Minecraft hardcodes the container GUI title text color to 0x404040 (dark gray). This is designed for the vanilla light-colored GUI backgrounds, but becomes nearly invisible when using dark-themed resource packs. \
 You can use [DarkTextFix (Oiginal repository)](https://github.com/eudesjuniorr/DarkTextFix) to fix the problem. \
-And we have the special support version of the [DarkTextFix](https://github.com/AdminXiaoMai/DarkTextFix). Thanks to Admin_XiaoMai!
+And we have the special support version of the [DarkTextFix](https://github.com/AdminXiaoMai/DarkTextFix)**\***. Thanks to Admin_XiaoMai!  
+**\*** This version will not support [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font). Please use [Angelica](https://github.com/GTNewHorizons/Angelica) to change the fonts. 
 
 ### Licensing
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
